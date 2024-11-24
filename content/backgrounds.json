@@ -1,0 +1,1068 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Quiet Library Moment",
+      "description": "An anime student holding books in a sunlit library, capturing a peaceful and studious atmosphere.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "library",
+        "books",
+        "student",
+        "glasses",
+        "sunlight",
+        "calm",
+        "study",
+        "quiet",
+        "interior"
+      ],
+      "mood": "calm",
+      "color_palette": [
+        "brown",
+        "beige",
+        "blue"
+      ],
+      "src": "backgrounds/anime-library-girl.processed.mp4",
+      "preview": "previews/anime-library-girl.processed.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Dancing Lights Explosion",
+      "description": "An anime character in a dynamic pose surrounded by vibrant, exploding lights in a nighttime setting.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "dancing",
+        "explosion",
+        "vibrant colors",
+        "night",
+        "dynamic",
+        "energy",
+        "sparkle",
+        "action"
+      ],
+      "mood": "energetic",
+      "color_palette": [
+        "blue",
+        "orange",
+        "pink"
+      ],
+      "src": "backgrounds/animegirl-sparkle.processed.mp4",
+      "preview": "previews/animegirl-sparkle.processed.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Mystical Cave Under the Stars",
+      "description": "A breathtaking view of a glowing cave with reflective water under a starry night sky.",
+      "category": "realistic",
+      "tags": [
+        "cave",
+        "stars",
+        "night",
+        "reflection",
+        "glow",
+        "mystical",
+        "nature",
+        "water",
+        "sky"
+      ],
+      "mood": "serene",
+      "color_palette": [
+        "blue",
+        "orange",
+        "black"
+      ],
+      "src": "backgrounds/bay.processed.mp4",
+      "preview": "previews/bay.processed.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Timeless Journey in the Sky",
+      "description": "An anime scene of a character standing near a giant clock, with a vivid sky and cherry blossoms in the background.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "clock",
+        "sky",
+        "cherry blossoms",
+        "time",
+        "adventure",
+        "spring",
+        "freedom",
+        "vivid colors",
+        "scenery"
+      ],
+      "mood": "adventurous",
+      "color_palette": [
+        "blue",
+        "pink",
+        "orange"
+      ],
+      "src": "backgrounds/bizarre.processed.mp4",
+      "preview": "previews/bizarre.processed.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Focused Fighter in the Ring",
+      "description": "An intense moment in an anime-style boxing ring, featuring a determined fighter under the spotlight.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "boxing",
+        "fighter",
+        "ring",
+        "spotlight",
+        "intensity",
+        "determination",
+        "sports",
+        "tattoos",
+        "crowd"
+      ],
+      "mood": "intense",
+      "color_palette": [
+        "red",
+        "blue",
+        "black"
+      ],
+      "src": "backgrounds/boxing.processed.mp4",
+      "preview": "previews/boxing.processed.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Rainy Night Parking Lot",
+      "description": "A moody anime scene of a lone car parked in a wet, empty parking lot under streetlights at night.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "car",
+        "parking lot",
+        "rain",
+        "night",
+        "streetlights",
+        "reflection",
+        "moody",
+        "urban",
+        "solitude"
+      ],
+      "mood": "melancholic",
+      "color_palette": [
+        "blue",
+        "yellow",
+        "black"
+      ],
+      "src": "backgrounds/car-parking.processed.mp4",
+      "preview": "previews/car-parking.processed.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Glamorous Casino Night",
+      "description": "An elegant anime scene of a woman in a red dress at a casino table, surrounded by a warm and luxurious atmosphere.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "casino",
+        "elegant",
+        "red dress",
+        "woman",
+        "luxury",
+        "nightlife",
+        "poker",
+        "glamorous",
+        "jewelry"
+      ],
+      "mood": "luxurious",
+      "color_palette": [
+        "red",
+        "gold",
+        "black"
+      ],
+      "src": "backgrounds/casino.processed.mp4",
+      "preview": "previews/casino.processed.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Underwater Glow Forest",
+      "description": "A serene underwater scene with glowing coral structures, reflecting soft lights in a tranquil ocean setting.",
+      "category": "realistic",
+      "tags": [
+        "underwater",
+        "coral",
+        "ocean",
+        "glow",
+        "serene",
+        "marine life",
+        "reflection",
+        "blue",
+        "tranquil",
+        "nature"
+      ],
+      "mood": "tranquil",
+      "color_palette": [
+        "blue",
+        "pink",
+        "black"
+      ],
+      "src": "backgrounds/coral-reef.processed.mp4",
+      "preview": "previews/coral-reef.processed.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Peaceful Rainy Forest Retreat",
+      "description": "An anime scene featuring a character enjoying a warm drink on a wooden porch, overlooking a lush forest during rainfall.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "forest",
+        "rain",
+        "porch",
+        "calm",
+        "wooden house",
+        "nature",
+        "relaxing",
+        "warm drink",
+        "cozy"
+      ],
+      "mood": "peaceful",
+      "color_palette": [
+        "green",
+        "brown",
+        "blue"
+      ],
+      "src": "backgrounds/cozycoffee.processed.mp4",
+      "preview": "previews/cozycoffee.processed.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Mystical Crystal Cavern",
+      "description": "An awe-inspiring anime scene of a massive cavern filled with glowing crystals and cascading light.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "cavern",
+        "crystals",
+        "glow",
+        "mystical",
+        "light",
+        "underground",
+        "adventure",
+        "nature",
+        "fantasy"
+      ],
+      "mood": "awe-inspiring",
+      "color_palette": [
+        "blue",
+        "green",
+        "black"
+      ],
+      "src": "backgrounds/diamond-cave.processed.mp4",
+      "preview": "previews/diamond-cave.processed.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Ancient Waterfall Ruins at Sunset",
+      "description": "A mystical anime scene featuring ancient ruins, a glowing waterfall, and a vibrant sunset reflecting in the water.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "waterfall",
+        "ruins",
+        "sunset",
+        "glow",
+        "nature",
+        "reflection",
+        "adventure",
+        "ancient",
+        "scenic"
+      ],
+      "mood": "mystical",
+      "color_palette": [
+        "blue",
+        "orange",
+        "black"
+      ],
+      "src": "backgrounds/evening-waterfall.processed.mp4",
+      "preview": "previews/evening-waterfall.processed.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Moonlit Island Oasis",
+      "description": "A serene anime scene showcasing a tropical island with glowing vegetation, a waterfall, and a large moon in the background.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "island",
+        "moonlight",
+        "waterfall",
+        "tropical",
+        "nature",
+        "glow",
+        "serene",
+        "reflection",
+        "scenic"
+      ],
+      "mood": "tranquil",
+      "color_palette": [
+        "purple",
+        "green",
+        "blue"
+      ],
+      "src": "backgrounds/floating-island.processed.mp4",
+      "preview": "previews/floating-island.processed.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Neon Sunset Cityscape",
+      "description": "A vibrant anime-style futuristic cityscape with neon lights, palm trees, and a glowing sunset on the horizon.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "futuristic",
+        "cityscape",
+        "neon lights",
+        "sunset",
+        "palm trees",
+        "cyberpunk",
+        "vibrant colors",
+        "urban",
+        "sci-fi"
+      ],
+      "mood": "vibrant",
+      "color_palette": [
+        "pink",
+        "purple",
+        "orange"
+      ],
+      "src": "backgrounds/futuristic.processed.mp4",
+      "preview": "previews/futuristic.processed.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Retro Arcade Glow",
+      "description": "An atmospheric anime scene of a dimly lit arcade with glowing retro gaming machines and reflections on the floor.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "arcade",
+        "retro",
+        "gaming",
+        "neon",
+        "machines",
+        "dimly lit",
+        "reflection",
+        "atmosphere",
+        "nostalgic"
+      ],
+      "mood": "nostalgic",
+      "color_palette": [
+        "blue",
+        "red",
+        "pink"
+      ],
+      "src": "backgrounds/gamehouse.processed.mp4",
+      "preview": "previews/gamehouse.processed.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Focused Night Work",
+      "description": "An anime scene depicting a character working at a computer, wearing headphones in a cozy, plant-filled room during sunset.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "work",
+        "headphones",
+        "computer",
+        "cozy",
+        "plants",
+        "sunset",
+        "focused",
+        "urban",
+        "relaxing"
+      ],
+      "mood": "focused",
+      "color_palette": [
+        "blue",
+        "orange",
+        "black"
+      ],
+      "src": "backgrounds/gamer-girl-1.processed.mp4",
+      "preview": "previews/gamer-girl-1.processed.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Sunset Gas Station",
+      "description": "An atmospheric anime scene featuring a gas station at sunset, with reflections on the wet ground and mountains in the background.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "gas station",
+        "sunset",
+        "mountains",
+        "reflection",
+        "wet ground",
+        "rural",
+        "scenic",
+        "tranquil",
+        "nightfall"
+      ],
+      "mood": "calm",
+      "color_palette": [
+        "orange",
+        "blue",
+        "purple"
+      ],
+      "src": "backgrounds/gas-station.processed.mp4",
+      "preview": "previews/gas-station.processed.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Urban Warrior",
+      "description": "An anime scene featuring a determined character leaning against a graffiti-covered wall in an urban setting, holding a weapon.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "urban",
+        "warrior",
+        "graffiti",
+        "weapon",
+        "determined",
+        "street",
+        "mystery",
+        "gritty",
+        "back alley"
+      ],
+      "mood": "gritty",
+      "color_palette": [
+        "beige",
+        "black",
+        "red"
+      ],
+      "src": "backgrounds/girl-wall.processed.mp4",
+      "preview": "previews/girl-wall.processed.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Ancient Ruins Under the Stars",
+      "description": "A mystical anime scene featuring ancient ruins illuminated by starlight and a glowing waterfall in a serene night setting.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "ruins",
+        "stars",
+        "waterfall",
+        "night",
+        "mystical",
+        "adventure",
+        "reflection",
+        "nature",
+        "tranquil"
+      ],
+      "mood": "mystical",
+      "color_palette": [
+        "blue",
+        "green",
+        "black"
+      ],
+      "src": "backgrounds/greek.processed.mp4",
+      "preview": "previews/greek.processed.jpg"
+    },
+    {
+      "id": "19",
+      "title": "High-Stakes Gambit",
+      "description": "An intense anime scene featuring a dimly lit room with a revolver, stacks of money, and poker chips on a table.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "money",
+        "poker chips",
+        "revolver",
+        "high stakes",
+        "gambling",
+        "crime",
+        "intense",
+        "dimly lit",
+        "mystery"
+      ],
+      "mood": "intense",
+      "color_palette": [
+        "brown",
+        "blue",
+        "gold"
+      ],
+      "src": "backgrounds/gun-money.processed.mp4",
+      "preview": "previews/gun-money.processed.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Abandoned Warehouse Serenity",
+      "description": "An anime scene showcasing a character standing in a sunlit abandoned warehouse, with broken windows casting light beams onto the floor.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "warehouse",
+        "abandoned",
+        "sunlight",
+        "light beams",
+        "reflection",
+        "solitude",
+        "urban",
+        "mystery",
+        "quiet"
+      ],
+      "mood": "serene",
+      "color_palette": [
+        "blue",
+        "pink",
+        "black"
+      ],
+      "src": "backgrounds/horror.processed.mp4",
+      "preview": "previews/horror.processed.jpg"
+    },
+    {
+      "id": "21",
+      "title": "Galactic Battle",
+      "description": "A thrilling space combat scene with advanced fighter jets exchanging energy blasts against a backdrop of alien skies and towering structures.",
+      "category": "anime",
+      "tags": [
+        "space",
+        "battle",
+        "jets",
+        "anime",
+        "sci-fi",
+        "combat",
+        "futuristic",
+        "galactic",
+        "energy",
+        "action"
+      ],
+      "mood": "intense",
+      "color_palette": [
+        "blue",
+        "green",
+        "black"
+      ],
+      "src": "backgrounds/jet-fight.processed.mp4",
+      "preview": "previews/jet-fight.processed.jpg"
+    },
+    {
+      "id": "22",
+      "title": "Skyline Leap",
+      "description": "A daring figure leaping across the skyline of a vibrant futuristic city, with neon trails lighting up the evening sky.",
+      "category": "anime",
+      "tags": [
+        "city",
+        "skyline",
+        "jump",
+        "anime",
+        "neon",
+        "futuristic",
+        "urban",
+        "dynamic",
+        "adventure",
+        "action"
+      ],
+      "mood": "adventurous",
+      "color_palette": [
+        "blue",
+        "pink",
+        "orange"
+      ],
+      "src": "backgrounds/jumping-city.processed.mp4",
+      "preview": "previews/jumping-city.processed.jpg"
+    },
+    {
+      "id": "23",
+      "title": "Luxury Oceanfront Retreat",
+      "description": "A stunning realistic scene featuring an infinity pool, palm trees, and a breathtaking ocean view from a luxurious modern villa.",
+      "category": "realistic",
+      "tags": [
+        "realistic",
+        "ocean view",
+        "infinity pool",
+        "luxury",
+        "villa",
+        "palm trees",
+        "relaxing",
+        "modern",
+        "nature",
+        "breathtaking"
+      ],
+      "mood": "luxurious",
+      "color_palette": [
+        "blue",
+        "green",
+        "white"
+      ],
+      "src": "backgrounds/luxury-villa.processed.mp4",
+      "preview": "previews/luxury-villa.processed.jpg"
+    },
+    {
+      "id": "24",
+      "title": "Monster Truck Madness",
+      "description": "An electrifying event featuring massive monster trucks with glowing wheels, surrounded by a cheering crowd under dazzling lights.",
+      "category": "realistic",
+      "tags": [
+        "monster truck",
+        "event",
+        "crowd",
+        "glow",
+        "action",
+        "realistic",
+        "night",
+        "festival",
+        "lights",
+        "power"
+      ],
+      "mood": "energetic",
+      "color_palette": [
+        "orange",
+        "blue",
+        "black"
+      ],
+      "src": "backgrounds/monster-truck.processed.mp4",
+      "preview": "previews/monster-truck.processed.jpg"
+    },
+    {
+      "id": "25",
+      "title": "Whimsical Mushroom Forest",
+      "description": "A fantastical realistic scene featuring giant colorful mushrooms and a dreamy pastel sky in a magical forest.",
+      "category": "realistic",
+      "tags": [
+        "realistic",
+        "mushrooms",
+        "fantasy",
+        "pastel sky",
+        "colorful",
+        "forest",
+        "magical",
+        "whimsical",
+        "nature",
+        "surreal"
+      ],
+      "mood": "dreamlike",
+      "color_palette": [
+        "purple",
+        "pink",
+        "blue"
+      ],
+      "src": "backgrounds/mushrooms.processed.mp4",
+      "preview": "previews/mushrooms.processed.jpg"
+    },
+    {
+      "id": "26",
+      "title": "Urban Night Glamour",
+      "description": "An anime scene featuring a stylish character in a bustling city at night, illuminated by vibrant neon signs.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "city",
+        "neon lights",
+        "nightlife",
+        "urban",
+        "fashion",
+        "character",
+        "vibrant",
+        "modern",
+        "street style"
+      ],
+      "mood": "vibrant",
+      "color_palette": [
+        "blue",
+        "pink",
+        "black"
+      ],
+      "src": "backgrounds/new-york-girl.processed.mp4",
+      "preview": "previews/new-york-girl.processed.jpg"
+    },
+    {
+      "id": "27",
+      "title": "Starlit Lagoon Serenity",
+      "description": "A serene scene of a tropical lagoon under a starry sky, with reflections of palm trees and glowing water.",
+      "category": "realistic",
+      "tags": [
+        "realistic",
+        "lagoon",
+        "stars",
+        "palm trees",
+        "reflection",
+        "glowing water",
+        "serene",
+        "night",
+        "tropical",
+        "nature"
+      ],
+      "mood": "tranquil",
+      "color_palette": [
+        "blue",
+        "black",
+        "orange"
+      ],
+      "src": "backgrounds/night-beach.processed.mp4",
+      "preview": "previews/night-beach.processed.jpg"
+    },
+    {
+      "id": "28",
+      "title": "Lantern Festival by the Bridge",
+      "description": "An enchanting anime scene featuring a wooden bridge over a river filled with floating lanterns, set in a tranquil forest during the evening.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "lanterns",
+        "bridge",
+        "festival",
+        "river",
+        "forest",
+        "evening",
+        "tranquil",
+        "scenic",
+        "culture"
+      ],
+      "mood": "enchanting",
+      "color_palette": [
+        "blue",
+        "orange",
+        "brown"
+      ],
+      "src": "backgrounds/river.processed.mp4",
+      "preview": "previews/river.processed.jpg"
+    },
+    {
+      "id": "29",
+      "title": "Rooftop Pool at Sunset",
+      "description": "A serene anime scene featuring a rooftop pool with sparkling water, overlooking a cityscape during sunset.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "rooftop",
+        "pool",
+        "sunset",
+        "cityscape",
+        "urban",
+        "sparkling water",
+        "relaxing",
+        "luxury",
+        "nightfall"
+      ],
+      "mood": "serene",
+      "color_palette": [
+        "blue",
+        "orange",
+        "purple"
+      ],
+      "src": "backgrounds/rootop-pool.processed.mp4",
+      "preview": "previews/rootop-pool.processed.jpg"
+    },
+    {
+      "id": "30",
+      "title": "Sunlit School Corridor",
+      "description": "An anime scene featuring a quiet school corridor illuminated by warm sunlight streaming through large windows.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "school",
+        "corridor",
+        "sunlight",
+        "windows",
+        "quiet",
+        "reflections",
+        "warm light",
+        "empty",
+        "tranquil"
+      ],
+      "mood": "peaceful",
+      "color_palette": [
+        "orange",
+        "blue",
+        "grey"
+      ],
+      "src": "backgrounds/school.processed.mp4",
+      "preview": "previews/school.processed.jpg"
+    },
+    {
+      "id": "31",
+      "title": "Spacious School Atrium",
+      "description": "An expansive anime-style school atrium bathed in daylight, with reflections on the polished floor and a modern architectural design.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "school",
+        "atrium",
+        "daylight",
+        "architecture",
+        "modern",
+        "reflections",
+        "spacious",
+        "bright",
+        "quiet"
+      ],
+      "mood": "calm",
+      "color_palette": [
+        "blue",
+        "white",
+        "beige"
+      ],
+      "src": "backgrounds/shopping-mall.processed.mp4",
+      "preview": "previews/shopping-mall.processed.jpg"
+    },
+    {
+      "id": "32",
+      "title": "Warehouse Recon",
+      "description": "An intense scene of a tactical soldier in an abandoned warehouse, with dramatic lighting and shadows creating a sense of mystery.",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "warehouse",
+        "soldier",
+        "tactical",
+        "abandoned",
+        "dramatic",
+        "shadows",
+        "intense",
+        "mystery",
+        "action"
+      ],
+      "mood": "tense",
+      "color_palette": [
+        "blue",
+        "orange",
+        "gray"
+      ],
+      "src": "backgrounds/soldier.processed.mp4",
+      "preview": "previews/soldier.processed.jpg"
+    },
+    {
+      "id": "33",
+      "title": "Urban Warfare",
+      "description": "An intense battle scene in a futuristic cityscape, featuring a soldier aiming at a distant target amidst explosions and chaos.",
+      "category": "realistic",
+      "tags": [
+        "battle",
+        "soldier",
+        "explosion",
+        "cityscape",
+        "night",
+        "realistic",
+        "action",
+        "warfare",
+        "chaos",
+        "fireworks"
+      ],
+      "mood": "intense",
+      "color_palette": [
+        "orange",
+        "blue",
+        "black"
+      ],
+      "src": "backgrounds/special-forces.processed.mp4",
+      "preview": "previews/special-forces.processed.jpg"
+    },
+    {
+      "id": "34",
+      "title": "Neon Alley",
+      "description": "A futuristic alley illuminated by vibrant neon lights, with reflective wet pavement and a cyberpunk atmosphere.",
+      "category": "anime",
+      "tags": [
+        "cyberpunk",
+        "neon",
+        "alley",
+        "futuristic",
+        "anime",
+        "urban",
+        "rainy",
+        "reflection",
+        "technology",
+        "mystery"
+      ],
+      "mood": "futuristic",
+      "color_palette": [
+        "pink",
+        "blue",
+        "black"
+      ],
+      "src": "backgrounds/steampunk.processed.mp4",
+      "preview": "previews/steampunk.processed.jpg"
+    },
+    {
+      "id": "35",
+      "title": "Underwater Refuge",
+      "description": "A serene underwater scene where a soldier rests amidst glowing aquatic flora and curious fish, illuminated by soft, ambient light.",
+      "category": "anime",
+      "tags": [
+        "underwater",
+        "soldier",
+        "glow",
+        "aquatic",
+        "anime",
+        "serene",
+        "fish",
+        "flora",
+        "exploration",
+        "mystical"
+      ],
+      "mood": "calm",
+      "color_palette": [
+        "blue",
+        "green",
+        "orange"
+      ],
+      "src": "backgrounds/subnautic-chill.processed.mp4",
+      "preview": "previews/subnautic-chill.processed.jpg"
+    },
+    {
+      "id": "36",
+      "title": "Sunset Skate",
+      "description": "A dynamic scene of a skateboarder performing tricks at sunset, with vibrant colors and a glowing urban backdrop.",
+      "category": "anime",
+      "tags": [
+        "skateboarding",
+        "sunset",
+        "tricks",
+        "anime",
+        "dynamic",
+        "vibrant",
+        "motion",
+        "urban",
+        "glow",
+        "freedom"
+      ],
+      "mood": "energetic",
+      "color_palette": [
+        "orange",
+        "blue",
+        "purple"
+      ],
+      "src": "backgrounds/sunset-skateboard.processed.mp4",
+      "preview": "previews/sunset-skateboard.processed.jpg"
+    },
+    {
+      "id": "37",
+      "title": "Sunset Surf",
+      "description": "A surfer riding a giant wave during a vibrant sunset, with colorful skies and dynamic water motion.",
+      "category": "anime",
+      "tags": [
+        "surfing",
+        "sunset",
+        "wave",
+        "ocean",
+        "anime",
+        "dynamic",
+        "adventure",
+        "water",
+        "freedom",
+        "vibrant"
+      ],
+      "mood": "adventurous",
+      "color_palette": [
+        "blue",
+        "orange",
+        "purple"
+      ],
+      "src": "backgrounds/surfing-evening.processed.mp4",
+      "preview": "previews/surfing-evening.processed.jpg"
+    },
+    {
+      "id": "38",
+      "title": "Shadowed Wanderer",
+      "description": "A mysterious figure in a hooded jacket walks through a rainy, neon-lit urban street at night.",
+      "category": "anime",
+      "tags": [
+        "urban",
+        "rain",
+        "night",
+        "neon",
+        "mystery",
+        "hooded",
+        "anime",
+        "reflection",
+        "city",
+        "dark"
+      ],
+      "mood": "mysterious",
+      "color_palette": [
+        "blue",
+        "black",
+        "pink"
+      ],
+      "src": "backgrounds/tech-wear.processed.mp4",
+      "preview": "previews/tech-wear.processed.jpg"
+    },
+    {
+      "id": "39",
+      "title": "Tactical Confrontation",
+      "description": "A tense standoff in a dimly lit corridor, with a group of armed soldiers facing two central figures.",
+      "category": "anime",
+      "tags": [
+        "tactical",
+        "soldiers",
+        "corridor",
+        "anime",
+        "dark",
+        "tense",
+        "confrontation",
+        "underground",
+        "military",
+        "mystery"
+      ],
+      "mood": "intense",
+      "color_palette": [
+        "blue",
+        "black",
+        "gray"
+      ],
+      "src": "backgrounds/urban-squad.processed.mp4",
+      "preview": "previews/urban-squad.processed.jpg"
+    },
+    {
+      "id": "40",
+      "title": "Tranquil Temple in Winter",
+      "description": "A serene temple surrounded by snow, with warm sunlight streaming through the trees, creating a peaceful atmosphere.",
+      "category": "anime",
+      "tags": [
+        "temple",
+        "winter",
+        "snow",
+        "anime",
+        "serene",
+        "tranquil",
+        "nature",
+        "sunlight",
+        "peaceful",
+        "architecture"
+      ],
+      "mood": "peaceful",
+      "color_palette": [
+        "white",
+        "brown",
+        "blue"
+      ],
+      "src": "backgrounds/winter-house.processed.mp4",
+      "preview": "previews/winter-house.processed.jpg"
+    },
+    {
+      "id": "41",
+      "title": "Snowy Village Street",
+      "description": "A quiet village street blanketed in snow, with warm light glowing from windows and street lamps under a starry night sky.",
+      "category": "anime",
+      "tags": [
+        "village",
+        "snow",
+        "winter",
+        "anime",
+        "night",
+        "lamps",
+        "peaceful",
+        "serene",
+        "starry",
+        "cozy"
+      ],
+      "mood": "serene",
+      "color_palette": [
+        "blue",
+        "white",
+        "orange"
+      ],
+      "src": "backgrounds/winter.processed.mp4",
+      "preview": "previews/winter.processed.jpg"
+    }
+  ]
+}

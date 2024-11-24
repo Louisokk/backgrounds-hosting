@@ -24,8 +24,7 @@
         "blue"
       ],
       "animation": "backgrounds/anime-library-girl.processed.mp4",
-      "image": "images/anime-library-girl.processed.jpg",
-      "preview": "previews/images/anime-library-girl.processed.jpg"
+      "image": "images/anime-library-girl.processed.jpg"
     },
     {
       "id": "2",
@@ -50,8 +49,7 @@
         "pink"
       ],
       "animation": "backgrounds/animegirl-sparkle.processed.mp4",
-      "image": "images/animegirl-sparkle.processed.jpg",
-      "preview": "previews/images/animegirl-sparkle.processed.jpg"
+      "image": "images/animegirl-sparkle.processed.jpg"
     },
     {
       "id": "3",
@@ -76,8 +74,7 @@
         "black"
       ],
       "animation": "backgrounds/bay.processed.mp4",
-      "image": "images/bay.processed.jpg",
-      "preview": "previews/images/bay.processed.jpg"
+      "image": "images/bay.processed.jpg"
     },
     {
       "id": "4",
@@ -103,8 +100,7 @@
         "orange"
       ],
       "animation": "backgrounds/bizarre.processed.mp4",
-      "image": "images/bizarre.processed.jpg",
-      "preview": "previews/images/bizarre.processed.jpg"
+      "image": "images/bizarre.processed.jpg"
     },
     {
       "id": "5",
@@ -130,8 +126,7 @@
         "black"
       ],
       "animation": "backgrounds/boxing.processed.mp4",
-      "image": "images/boxing.processed.jpg",
-      "preview": "previews/images/boxing.processed.jpg"
+      "image": "images/boxing.processed.jpg"
     },
     {
       "id": "6",
@@ -157,8 +152,7 @@
         "black"
       ],
       "animation": "backgrounds/car-parking.processed.mp4",
-      "image": "images/car-parking.processed.jpg",
-      "preview": "previews/images/car-parking.processed.jpg"
+      "image": "images/car-parking.processed.jpg"
     },
     {
       "id": "7",
@@ -184,8 +178,7 @@
         "black"
       ],
       "animation": "backgrounds/casino.processed.mp4",
-      "image": "images/casino.processed.jpg",
-      "preview": "previews/images/casino.processed.jpg"
+      "image": "images/casino.processed.jpg"
     },
     {
       "id": "8",
@@ -211,8 +204,7 @@
         "black"
       ],
       "animation": "backgrounds/coral-reef.processed.mp4",
-      "image": "images/coral-reef.processed.jpg",
-      "preview": "previews/images/coral-reef.processed.jpg"
+      "image": "images/coral-reef.processed.jpg"
     },
     {
       "id": "9",
@@ -238,8 +230,7 @@
         "blue"
       ],
       "animation": "backgrounds/cozycoffee.processed.mp4",
-      "image": "images/cozycoffee.processed.jpg",
-      "preview": "previews/images/cozycoffee.processed.jpg"
+      "image": "images/cozycoffee.processed.jpg"
     },
     {
       "id": "10",
@@ -265,8 +256,7 @@
         "black"
       ],
       "animation": "backgrounds/diamond-cave.processed.mp4",
-      "image": "images/diamond-cave.processed.jpg",
-      "preview": "previews/images/diamond-cave.processed.jpg"
+      "image": "images/diamond-cave.processed.jpg"
     },
     {
       "id": "11",
@@ -292,8 +282,7 @@
         "black"
       ],
       "animation": "backgrounds/evening-waterfall.processed.mp4",
-      "image": "images/evening-waterfall.processed.jpg",
-      "preview": "previews/images/evening-waterfall.processed.jpg"
+      "image": "images/evening-waterfall.processed.jpg"
     },
     {
       "id": "12",
@@ -319,8 +308,7 @@
         "blue"
       ],
       "animation": "backgrounds/floating-island.processed.mp4",
-      "image": "images/floating-island.processed.jpg",
-      "preview": "previews/images/floating-island.processed.jpg"
+      "image": "images/floating-island.processed.jpg"
     },
     {
       "id": "13",
@@ -346,8 +334,7 @@
         "orange"
       ],
       "animation": "backgrounds/futuristic.processed.mp4",
-      "image": "images/futuristic.processed.jpg",
-      "preview": "previews/images/futuristic.processed.jpg"
+      "image": "images/futuristic.processed.jpg"
     },
     {
       "id": "14",
@@ -373,8 +360,7 @@
         "pink"
       ],
       "animation": "backgrounds/gamehouse.processed.mp4",
-      "image": "images/gamehouse.processed.jpg",
-      "preview": "previews/images/gamehouse.processed.jpg"
+      "image": "images/gamehouse.processed.jpg"
     },
     {
       "id": "15",
@@ -400,8 +386,7 @@
         "black"
       ],
       "animation": "backgrounds/gamer-girl-1.processed.mp4",
-      "image": "images/gamer-girl-1.processed.jpg",
-      "preview": "previews/images/gamer-girl-1.processed.jpg"
+      "image": "images/gamer-girl-1.processed.jpg"
     },
     {
       "id": "16",
@@ -427,8 +412,7 @@
         "purple"
       ],
       "animation": "backgrounds/gas-station.processed.mp4",
-      "image": "images/gas-station.processed.jpg",
-      "preview": "previews/images/gas-station.processed.jpg"
+      "image": "images/gas-station.processed.jpg"
     },
     {
       "id": "17",
@@ -454,8 +438,7 @@
         "red"
       ],
       "animation": "backgrounds/girl-wall.processed.mp4",
-      "image": "images/girl-wall.processed.jpg",
-      "preview": "previews/images/girl-wall.processed.jpg"
+      "image": "images/girl-wall.processed.jpg"
     },
     {
       "id": "18",
@@ -481,8 +464,7 @@
         "black"
       ],
       "animation": "backgrounds/greek.processed.mp4",
-      "image": "images/greek.processed.jpg",
-      "preview": "previews/images/greek.processed.jpg"
+      "image": "images/greek.processed.jpg"
     },
     {
       "id": "19",
@@ -508,8 +490,7 @@
         "gold"
       ],
       "animation": "backgrounds/gun-money.processed.mp4",
-      "image": "images/gun-money.processed.jpg",
-      "preview": "previews/images/gun-money.processed.jpg"
+      "image": "images/gun-money.processed.jpg"
     },
     {
       "id": "20",
@@ -535,8 +516,7 @@
         "black"
       ],
       "animation": "backgrounds/horror.processed.mp4",
-      "image": "images/horror.processed.jpg",
-      "preview": "previews/images/horror.processed.jpg"
+      "image": "images/horror.processed.jpg"
     },
     {
       "id": "21",
@@ -562,8 +542,7 @@
         "black"
       ],
       "animation": "backgrounds/jet-fight.processed.mp4",
-      "image": "images/jet-fight.processed.jpg",
-      "preview": "previews/images/jet-fight.processed.jpg"
+      "image": "images/jet-fight.processed.jpg"
     },
     {
       "id": "22",
@@ -589,8 +568,7 @@
         "orange"
       ],
       "animation": "backgrounds/jumping-city.processed.mp4",
-      "image": "images/jumping-city.processed.jpg",
-      "preview": "previews/images/jumping-city.processed.jpg"
+      "image": "images/jumping-city.processed.jpg"
     },
     {
       "id": "23",
@@ -616,8 +594,7 @@
         "white"
       ],
       "animation": "backgrounds/luxury-villa.processed.mp4",
-      "image": "images/luxury-villa.processed.jpg",
-      "preview": "previews/images/luxury-villa.processed.jpg"
+      "image": "images/luxury-villa.processed.jpg"
     },
     {
       "id": "24",
@@ -643,8 +620,7 @@
         "black"
       ],
       "animation": "backgrounds/monster-truck.processed.mp4",
-      "image": "images/monster-truck.processed.jpg",
-      "preview": "previews/images/monster-truck.processed.jpg"
+      "image": "images/monster-truck.processed.jpg"
     },
     {
       "id": "25",
@@ -670,8 +646,7 @@
         "blue"
       ],
       "animation": "backgrounds/mushrooms.processed.mp4",
-      "image": "images/mushrooms.processed.jpg",
-      "preview": "previews/images/mushrooms.processed.jpg"
+      "image": "images/mushrooms.processed.jpg"
     },
     {
       "id": "26",
@@ -697,8 +672,7 @@
         "black"
       ],
       "animation": "backgrounds/new-york-girl.processed.mp4",
-      "image": "images/new-york-girl.processed.jpg",
-      "preview": "previews/images/new-york-girl.processed.jpg"
+      "image": "images/new-york-girl.processed.jpg"
     },
     {
       "id": "27",
@@ -724,8 +698,7 @@
         "orange"
       ],
       "animation": "backgrounds/night-beach.processed.mp4",
-      "image": "images/night-beach.processed.jpg",
-      "preview": "previews/images/night-beach.processed.jpg"
+      "image": "images/night-beach.processed.jpg"
     },
     {
       "id": "28",
@@ -751,8 +724,7 @@
         "brown"
       ],
       "animation": "backgrounds/river.processed.mp4",
-      "image": "images/river.processed.jpg",
-      "preview": "previews/images/river.processed.jpg"
+      "image": "images/river.processed.jpg"
     },
     {
       "id": "29",
@@ -778,8 +750,7 @@
         "purple"
       ],
       "animation": "backgrounds/rootop-pool.processed.mp4",
-      "image": "images/rootop-pool.processed.jpg",
-      "preview": "previews/images/rootop-pool.processed.jpg"
+      "image": "images/rootop-pool.processed.jpg"
     },
     {
       "id": "30",
@@ -805,8 +776,7 @@
         "grey"
       ],
       "animation": "backgrounds/school.processed.mp4",
-      "image": "images/school.processed.jpg",
-      "preview": "previews/images/school.processed.jpg"
+      "image": "images/school.processed.jpg"
     },
     {
       "id": "31",
@@ -832,8 +802,7 @@
         "beige"
       ],
       "animation": "backgrounds/shopping-mall.processed.mp4",
-      "image": "images/shopping-mall.processed.jpg",
-      "preview": "previews/images/shopping-mall.processed.jpg"
+      "image": "images/shopping-mall.processed.jpg"
     },
     {
       "id": "32",
@@ -859,8 +828,7 @@
         "gray"
       ],
       "animation": "backgrounds/soldier.processed.mp4",
-      "image": "images/soldier.processed.jpg",
-      "preview": "previews/images/soldier.processed.jpg"
+      "image": "images/soldier.processed.jpg"
     },
     {
       "id": "33",
@@ -886,8 +854,7 @@
         "black"
       ],
       "animation": "backgrounds/special-forces.processed.mp4",
-      "image": "images/special-forces.processed.jpg",
-      "preview": "previews/images/special-forces.processed.jpg"
+      "image": "images/special-forces.processed.jpg"
     },
     {
       "id": "34",
@@ -913,8 +880,7 @@
         "black"
       ],
       "animation": "backgrounds/steampunk.processed.mp4",
-      "image": "images/steampunk.processed.jpg",
-      "preview": "previews/images/steampunk.processed.jpg"
+      "image": "images/steampunk.processed.jpg"
     },
     {
       "id": "35",
@@ -940,8 +906,7 @@
         "orange"
       ],
       "animation": "backgrounds/subnautic-chill.processed.mp4",
-      "image": "images/subnautic-chill.processed.jpg",
-      "preview": "previews/images/subnautic-chill.processed.jpg"
+      "image": "images/subnautic-chill.processed.jpg"
     },
     {
       "id": "36",
@@ -967,8 +932,7 @@
         "purple"
       ],
       "animation": "backgrounds/sunset-skateboard.processed.mp4",
-      "image": "images/sunset-skateboard.processed.jpg",
-      "preview": "previews/images/sunset-skateboard.processed.jpg"
+      "image": "images/sunset-skateboard.processed.jpg"
     },
     {
       "id": "37",
@@ -994,8 +958,7 @@
         "purple"
       ],
       "animation": "backgrounds/surfing-evening.processed.mp4",
-      "image": "images/surfing-evening.processed.jpg",
-      "preview": "previews/images/surfing-evening.processed.jpg"
+      "image": "images/surfing-evening.processed.jpg"
     },
     {
       "id": "38",
@@ -1021,8 +984,7 @@
         "pink"
       ],
       "animation": "backgrounds/tech-wear.processed.mp4",
-      "image": "images/tech-wear.processed.jpg",
-      "preview": "previews/images/tech-wear.processed.jpg"
+      "image": "images/tech-wear.processed.jpg"
     },
     {
       "id": "39",
@@ -1048,8 +1010,7 @@
         "gray"
       ],
       "animation": "backgrounds/urban-squad.processed.mp4",
-      "image": "images/urban-squad.processed.jpg",
-      "preview": "previews/images/urban-squad.processed.jpg"
+      "image": "images/urban-squad.processed.jpg"
     },
     {
       "id": "40",
@@ -1075,8 +1036,7 @@
         "blue"
       ],
       "animation": "backgrounds/winter-house.processed.mp4",
-      "image": "images/winter-house.processed.jpg",
-      "preview": "previews/images/winter-house.processed.jpg"
+      "image": "images/winter-house.processed.jpg"
     },
     {
       "id": "41",
@@ -1102,8 +1062,7 @@
         "orange"
       ],
       "animation": "backgrounds/winter.processed.mp4",
-      "image": "images/winter.processed.jpg",
-      "preview": "previews/images/winter.processed.jpg"
+      "image": "images/winter.processed.jpg"
     }
   ]
 }

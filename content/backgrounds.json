@@ -1,4 +1,5 @@
 {
+  "version": "1.0.1",
   "items": [
     {
       "id": "1",
@@ -18,11 +19,7 @@
         "interior"
       ],
       "mood": "calm",
-      "color_palette": [
-        "brown",
-        "beige",
-        "blue"
-      ],
+      "color_palette": ["brown", "beige", "blue"],
       "animation": "backgrounds/anime-library-girl.processed.mp4",
       "image": "images/anime-library-girl.processed.jpg",
       "preview": "previews/anime-library-girl.processed.jpg"
@@ -44,11 +41,7 @@
         "action"
       ],
       "mood": "energetic",
-      "color_palette": [
-        "blue",
-        "orange",
-        "pink"
-      ],
+      "color_palette": ["blue", "orange", "pink"],
       "animation": "backgrounds/animegirl-sparkle.processed.mp4",
       "image": "images/animegirl-sparkle.processed.jpg",
       "preview": "previews/animegirl-sparkle.processed.jpg"
@@ -70,11 +63,7 @@
         "sky"
       ],
       "mood": "serene",
-      "color_palette": [
-        "blue",
-        "orange",
-        "black"
-      ],
+      "color_palette": ["blue", "orange", "black"],
       "animation": "backgrounds/bay.processed.mp4",
       "image": "images/bay.processed.jpg",
       "preview": "previews/bay.processed.jpg"
@@ -97,11 +86,7 @@
         "scenery"
       ],
       "mood": "adventurous",
-      "color_palette": [
-        "blue",
-        "pink",
-        "orange"
-      ],
+      "color_palette": ["blue", "pink", "orange"],
       "animation": "backgrounds/bizarre.processed.mp4",
       "image": "images/bizarre.processed.jpg",
       "preview": "previews/bizarre.processed.jpg"
@@ -124,11 +109,7 @@
         "crowd"
       ],
       "mood": "intense",
-      "color_palette": [
-        "red",
-        "blue",
-        "black"
-      ],
+      "color_palette": ["red", "blue", "black"],
       "animation": "backgrounds/boxing.processed.mp4",
       "image": "images/boxing.processed.jpg",
       "preview": "previews/boxing.processed.jpg"
@@ -151,11 +132,7 @@
         "solitude"
       ],
       "mood": "melancholic",
-      "color_palette": [
-        "blue",
-        "yellow",
-        "black"
-      ],
+      "color_palette": ["blue", "yellow", "black"],
       "animation": "backgrounds/car-parking.processed.mp4",
       "image": "images/car-parking.processed.jpg",
       "preview": "previews/car-parking.processed.jpg"
@@ -178,11 +155,7 @@
         "jewelry"
       ],
       "mood": "luxurious",
-      "color_palette": [
-        "red",
-        "gold",
-        "black"
-      ],
+      "color_palette": ["red", "gold", "black"],
       "animation": "backgrounds/casino.processed.mp4",
       "image": "images/casino.processed.jpg",
       "preview": "previews/casino.processed.jpg"
@@ -205,11 +178,7 @@
         "nature"
       ],
       "mood": "tranquil",
-      "color_palette": [
-        "blue",
-        "pink",
-        "black"
-      ],
+      "color_palette": ["blue", "pink", "black"],
       "animation": "backgrounds/coral-reef.processed.mp4",
       "image": "images/coral-reef.processed.jpg",
       "preview": "previews/coral-reef.processed.jpg"
@@ -232,11 +201,7 @@
         "cozy"
       ],
       "mood": "peaceful",
-      "color_palette": [
-        "green",
-        "brown",
-        "blue"
-      ],
+      "color_palette": ["green", "brown", "blue"],
       "animation": "backgrounds/cozycoffee.processed.mp4",
       "image": "images/cozycoffee.processed.jpg",
       "preview": "previews/cozycoffee.processed.jpg"
@@ -259,11 +224,7 @@
         "fantasy"
       ],
       "mood": "awe-inspiring",
-      "color_palette": [
-        "blue",
-        "green",
-        "black"
-      ],
+      "color_palette": ["blue", "green", "black"],
       "animation": "backgrounds/diamond-cave.processed.mp4",
       "image": "images/diamond-cave.processed.jpg",
       "preview": "previews/diamond-cave.processed.jpg"
@@ -286,11 +247,7 @@
         "scenic"
       ],
       "mood": "mystical",
-      "color_palette": [
-        "blue",
-        "orange",
-        "black"
-      ],
+      "color_palette": ["blue", "orange", "black"],
       "animation": "backgrounds/evening-waterfall.processed.mp4",
       "image": "images/evening-waterfall.processed.jpg",
       "preview": "previews/evening-waterfall.processed.jpg"
@@ -313,11 +270,7 @@
         "scenic"
       ],
       "mood": "tranquil",
-      "color_palette": [
-        "purple",
-        "green",
-        "blue"
-      ],
+      "color_palette": ["purple", "green", "blue"],
       "animation": "backgrounds/floating-island.processed.mp4",
       "image": "images/floating-island.processed.jpg",
       "preview": "previews/floating-island.processed.jpg"
@@ -340,11 +293,7 @@
         "sci-fi"
       ],
       "mood": "vibrant",
-      "color_palette": [
-        "pink",
-        "purple",
-        "orange"
-      ],
+      "color_palette": ["pink", "purple", "orange"],
       "animation": "backgrounds/futuristic.processed.mp4",
       "image": "images/futuristic.processed.jpg",
       "preview": "previews/futuristic.processed.jpg"
@@ -367,11 +316,7 @@
         "nostalgic"
       ],
       "mood": "nostalgic",
-      "color_palette": [
-        "blue",
-        "red",
-        "pink"
-      ],
+      "color_palette": ["blue", "red", "pink"],
       "animation": "backgrounds/gamehouse.processed.mp4",
       "image": "images/gamehouse.processed.jpg",
       "preview": "previews/gamehouse.processed.jpg"
@@ -394,11 +339,7 @@
         "relaxing"
       ],
       "mood": "focused",
-      "color_palette": [
-        "blue",
-        "orange",
-        "black"
-      ],
+      "color_palette": ["blue", "orange", "black"],
       "animation": "backgrounds/gamer-girl-1.processed.mp4",
       "image": "images/gamer-girl-1.processed.jpg",
       "preview": "previews/gamer-girl-1.processed.jpg"
@@ -421,11 +362,7 @@
         "nightfall"
       ],
       "mood": "calm",
-      "color_palette": [
-        "orange",
-        "blue",
-        "purple"
-      ],
+      "color_palette": ["orange", "blue", "purple"],
       "animation": "backgrounds/gas-station.processed.mp4",
       "image": "images/gas-station.processed.jpg",
       "preview": "previews/gas-station.processed.jpg"
@@ -448,11 +385,7 @@
         "back alley"
       ],
       "mood": "gritty",
-      "color_palette": [
-        "beige",
-        "black",
-        "red"
-      ],
+      "color_palette": ["beige", "black", "red"],
       "animation": "backgrounds/girl-wall.processed.mp4",
       "image": "images/girl-wall.processed.jpg",
       "preview": "previews/girl-wall.processed.jpg"
@@ -475,11 +408,7 @@
         "tranquil"
       ],
       "mood": "mystical",
-      "color_palette": [
-        "blue",
-        "green",
-        "black"
-      ],
+      "color_palette": ["blue", "green", "black"],
       "animation": "backgrounds/greek.processed.mp4",
       "image": "images/greek.processed.jpg",
       "preview": "previews/greek.processed.jpg"
@@ -502,11 +431,7 @@
         "mystery"
       ],
       "mood": "intense",
-      "color_palette": [
-        "brown",
-        "blue",
-        "gold"
-      ],
+      "color_palette": ["brown", "blue", "gold"],
       "animation": "backgrounds/gun-money.processed.mp4",
       "image": "images/gun-money.processed.jpg",
       "preview": "previews/gun-money.processed.jpg"
@@ -529,11 +454,7 @@
         "quiet"
       ],
       "mood": "serene",
-      "color_palette": [
-        "blue",
-        "pink",
-        "black"
-      ],
+      "color_palette": ["blue", "pink", "black"],
       "animation": "backgrounds/horror.processed.mp4",
       "image": "images/horror.processed.jpg",
       "preview": "previews/horror.processed.jpg"
@@ -556,11 +477,7 @@
         "action"
       ],
       "mood": "intense",
-      "color_palette": [
-        "blue",
-        "green",
-        "black"
-      ],
+      "color_palette": ["blue", "green", "black"],
       "animation": "backgrounds/jet-fight.processed.mp4",
       "image": "images/jet-fight.processed.jpg",
       "preview": "previews/jet-fight.processed.jpg"
@@ -583,11 +500,7 @@
         "action"
       ],
       "mood": "adventurous",
-      "color_palette": [
-        "blue",
-        "pink",
-        "orange"
-      ],
+      "color_palette": ["blue", "pink", "orange"],
       "animation": "backgrounds/jumping-city.processed.mp4",
       "image": "images/jumping-city.processed.jpg",
       "preview": "previews/jumping-city.processed.jpg"
@@ -610,11 +523,7 @@
         "breathtaking"
       ],
       "mood": "luxurious",
-      "color_palette": [
-        "blue",
-        "green",
-        "white"
-      ],
+      "color_palette": ["blue", "green", "white"],
       "animation": "backgrounds/luxury-villa.processed.mp4",
       "image": "images/luxury-villa.processed.jpg",
       "preview": "previews/luxury-villa.processed.jpg"
@@ -637,11 +546,7 @@
         "power"
       ],
       "mood": "energetic",
-      "color_palette": [
-        "orange",
-        "blue",
-        "black"
-      ],
+      "color_palette": ["orange", "blue", "black"],
       "animation": "backgrounds/monster-truck.processed.mp4",
       "image": "images/monster-truck.processed.jpg",
       "preview": "previews/monster-truck.processed.jpg"
@@ -664,11 +569,7 @@
         "surreal"
       ],
       "mood": "dreamlike",
-      "color_palette": [
-        "purple",
-        "pink",
-        "blue"
-      ],
+      "color_palette": ["purple", "pink", "blue"],
       "animation": "backgrounds/mushrooms.processed.mp4",
       "image": "images/mushrooms.processed.jpg",
       "preview": "previews/mushrooms.processed.jpg"
@@ -691,11 +592,7 @@
         "street style"
       ],
       "mood": "vibrant",
-      "color_palette": [
-        "blue",
-        "pink",
-        "black"
-      ],
+      "color_palette": ["blue", "pink", "black"],
       "animation": "backgrounds/new-york-girl.processed.mp4",
       "image": "images/new-york-girl.processed.jpg",
       "preview": "previews/new-york-girl.processed.jpg"
@@ -718,11 +615,7 @@
         "nature"
       ],
       "mood": "tranquil",
-      "color_palette": [
-        "blue",
-        "black",
-        "orange"
-      ],
+      "color_palette": ["blue", "black", "orange"],
       "animation": "backgrounds/night-beach.processed.mp4",
       "image": "images/night-beach.processed.jpg",
       "preview": "previews/night-beach.processed.jpg"
@@ -745,11 +638,7 @@
         "culture"
       ],
       "mood": "enchanting",
-      "color_palette": [
-        "blue",
-        "orange",
-        "brown"
-      ],
+      "color_palette": ["blue", "orange", "brown"],
       "animation": "backgrounds/river.processed.mp4",
       "image": "images/river.processed.jpg",
       "preview": "previews/river.processed.jpg"
@@ -772,11 +661,7 @@
         "nightfall"
       ],
       "mood": "serene",
-      "color_palette": [
-        "blue",
-        "orange",
-        "purple"
-      ],
+      "color_palette": ["blue", "orange", "purple"],
       "animation": "backgrounds/rootop-pool.processed.mp4",
       "image": "images/rootop-pool.processed.jpg",
       "preview": "previews/rootop-pool.processed.jpg"
@@ -799,11 +684,7 @@
         "tranquil"
       ],
       "mood": "peaceful",
-      "color_palette": [
-        "orange",
-        "blue",
-        "grey"
-      ],
+      "color_palette": ["orange", "blue", "grey"],
       "animation": "backgrounds/school.processed.mp4",
       "image": "images/school.processed.jpg",
       "preview": "previews/school.processed.jpg"
@@ -826,11 +707,7 @@
         "quiet"
       ],
       "mood": "calm",
-      "color_palette": [
-        "blue",
-        "white",
-        "beige"
-      ],
+      "color_palette": ["blue", "white", "beige"],
       "animation": "backgrounds/shopping-mall.processed.mp4",
       "image": "images/shopping-mall.processed.jpg",
       "preview": "previews/shopping-mall.processed.jpg"
@@ -853,11 +730,7 @@
         "action"
       ],
       "mood": "tense",
-      "color_palette": [
-        "blue",
-        "orange",
-        "gray"
-      ],
+      "color_palette": ["blue", "orange", "gray"],
       "animation": "backgrounds/soldier.processed.mp4",
       "image": "images/soldier.processed.jpg",
       "preview": "previews/soldier.processed.jpg"
@@ -880,11 +753,7 @@
         "fireworks"
       ],
       "mood": "intense",
-      "color_palette": [
-        "orange",
-        "blue",
-        "black"
-      ],
+      "color_palette": ["orange", "blue", "black"],
       "animation": "backgrounds/special-forces.processed.mp4",
       "image": "images/special-forces.processed.jpg",
       "preview": "previews/special-forces.processed.jpg"
@@ -907,11 +776,7 @@
         "mystery"
       ],
       "mood": "futuristic",
-      "color_palette": [
-        "pink",
-        "blue",
-        "black"
-      ],
+      "color_palette": ["pink", "blue", "black"],
       "animation": "backgrounds/steampunk.processed.mp4",
       "image": "images/steampunk.processed.jpg",
       "preview": "previews/steampunk.processed.jpg"
@@ -934,11 +799,7 @@
         "mystical"
       ],
       "mood": "calm",
-      "color_palette": [
-        "blue",
-        "green",
-        "orange"
-      ],
+      "color_palette": ["blue", "green", "orange"],
       "animation": "backgrounds/subnautic-chill.processed.mp4",
       "image": "images/subnautic-chill.processed.jpg",
       "preview": "previews/subnautic-chill.processed.jpg"
@@ -961,11 +822,7 @@
         "freedom"
       ],
       "mood": "energetic",
-      "color_palette": [
-        "orange",
-        "blue",
-        "purple"
-      ],
+      "color_palette": ["orange", "blue", "purple"],
       "animation": "backgrounds/sunset-skateboard.processed.mp4",
       "image": "images/sunset-skateboard.processed.jpg",
       "preview": "previews/sunset-skateboard.processed.jpg"
@@ -988,11 +845,7 @@
         "vibrant"
       ],
       "mood": "adventurous",
-      "color_palette": [
-        "blue",
-        "orange",
-        "purple"
-      ],
+      "color_palette": ["blue", "orange", "purple"],
       "animation": "backgrounds/surfing-evening.processed.mp4",
       "image": "images/surfing-evening.processed.jpg",
       "preview": "previews/surfing-evening.processed.jpg"
@@ -1015,11 +868,7 @@
         "dark"
       ],
       "mood": "mysterious",
-      "color_palette": [
-        "blue",
-        "black",
-        "pink"
-      ],
+      "color_palette": ["blue", "black", "pink"],
       "animation": "backgrounds/tech-wear.processed.mp4",
       "image": "images/tech-wear.processed.jpg",
       "preview": "previews/tech-wear.processed.jpg"
@@ -1042,11 +891,7 @@
         "mystery"
       ],
       "mood": "intense",
-      "color_palette": [
-        "blue",
-        "black",
-        "gray"
-      ],
+      "color_palette": ["blue", "black", "gray"],
       "animation": "backgrounds/urban-squad.processed.mp4",
       "image": "images/urban-squad.processed.jpg",
       "preview": "previews/urban-squad.processed.jpg"
@@ -1069,11 +914,7 @@
         "architecture"
       ],
       "mood": "peaceful",
-      "color_palette": [
-        "white",
-        "brown",
-        "blue"
-      ],
+      "color_palette": ["white", "brown", "blue"],
       "animation": "backgrounds/winter-house.processed.mp4",
       "image": "images/winter-house.processed.jpg",
       "preview": "previews/winter-house.processed.jpg"
@@ -1096,11 +937,7 @@
         "cozy"
       ],
       "mood": "serene",
-      "color_palette": [
-        "blue",
-        "white",
-        "orange"
-      ],
+      "color_palette": ["blue", "white", "orange"],
       "animation": "backgrounds/winter.processed.mp4",
       "image": "images/winter.processed.jpg",
       "preview": "previews/winter.processed.jpg"

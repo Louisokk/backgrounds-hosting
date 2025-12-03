@@ -1,0 +1,115 @@
+{
+  "version": "1.5.0",
+  "items": [
+    {
+      "id": "1",
+      "title": "Soft Glow Ghost",
+      "description": "A small ghost with rounded edges and expressive oval eyes.",
+      "category": "realistic",
+      "tags": ["ghost", "spirit", "cute", "character", "floating", "minimal"],
+      "mood": "neutral",
+      "color_palette": ["white", "black"],
+      "image": "logos/ghost-15692_256.gif",
+      "preview": "previews/logos/ghost-15692_256.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Kawaii Ghost",
+      "description": "A round ghost with large black eyes and blushing cheeks.",
+      "category": "realistic",
+      "tags": ["ghost", "kawaii", "cute", "round", "character"],
+      "mood": "happy",
+      "color_palette": ["white", "black", "pink"],
+      "image": "logos/ghost-23282_256.gif",
+      "preview": "previews/logos/ghost-23282_256.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Retro Palm Silhouette",
+      "description": "Two palm trees with stylized curved trunks and wavy leaves.",
+      "category": "realistic",
+      "tags": ["palm", "tree", "tropical", "silhouette", "nature"],
+      "mood": "tropical",
+      "color_palette": ["teal", "purple"],
+      "image": "logos/palm-17251_256.gif",
+      "preview": "previews/logos/palm-17251_256.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Vibrant Palm Tree",
+      "description": "A single stylized palm tree with multicolored neon leaves.",
+      "category": "realistic",
+      "tags": ["palm", "tree", "neon", "tropical", "colorful"],
+      "mood": "bright",
+      "color_palette": ["green", "yellow", "purple"],
+      "image": "logos/palm-22062_256.gif",
+      "preview": "previews/logos/palm-22062_256.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Cartoon Rocket",
+      "description": "A cartoon-style rocket with red fins and a yellow flame.",
+      "category": "realistic",
+      "tags": ["rocket", "spaceship", "cartoon", "space", "launch"],
+      "mood": "energetic",
+      "color_palette": ["red", "yellow", "white"],
+      "image": "logos/rocket-23413_256.gif",
+      "preview": "previews/logos/rocket-23413_256.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Simple Skeleton Character",
+      "description": "A stylized skeleton with a round skull and visible ribcage.",
+      "category": "realistic",
+      "tags": ["skeleton", "bones", "character", "spooky", "minimal"],
+      "mood": "neutral",
+      "color_palette": ["white", "black"],
+      "image": "logos/skeleton-23246_256.gif",
+      "preview": "previews/logos/skeleton-23246_256.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Dapper Skeleton",
+      "description": "A skeleton figure wearing a top hat and bow tie.",
+      "category": "realistic",
+      "tags": ["skeleton", "top hat", "bow tie", "character", "stylized"],
+      "mood": "elegant",
+      "color_palette": ["white", "black"],
+      "image": "logos/skeleton-23247_256.gif",
+      "preview": "previews/logos/skeleton-23247_256.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Steampunk Gears Logo",
+      "description": "A metallic steampunk-style gear arrangement with engraved lettering.",
+      "category": "realistic",
+      "tags": ["steampunk", "gears", "metal", "industrial", "logo"],
+      "mood": "mechanical",
+      "color_palette": ["bronze", "copper", "brown"],
+      "image": "logos/steampunk-299_256.gif",
+      "preview": "previews/logos/steampunk-299_256.jpg"
+    },
+    {
+      "id": "9",
+      "title": "One Dollar Note",
+      "description": "An illustration of a United States one-dollar bill.",
+      "category": "realistic",
+      "tags": ["dollar", "money", "currency", "banknote", "finance"],
+      "mood": "neutral",
+      "color_palette": ["green", "white", "black"],
+      "image": "logos/dollar-5701_256.gif",
+      "preview": "previews/logos/dollar-5701_256.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Vintage Style Ghost",
+      "description": "A ghost with a hand-drawn texture and simple black eyes.",
+      "category": "realistic",
+      "tags": ["ghost", "vintage", "textured", "character", "spooky"],
+      "mood": "neutral",
+      "color_palette": ["white", "black"],
+      "image": "logos/ghost-15636_256.gif",
+      "preview": "previews/logos/ghost-15636_256.jpg"
+    }
+  ]
+}

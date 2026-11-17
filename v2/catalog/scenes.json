@@ -1,0 +1,1072 @@
+{
+  "schemaVersion": 1,
+  "assetBase": "https://backgrounds-hosting.pages.dev/v2/",
+  "items": [
+    {
+      "id": "nebelwald",
+      "format": 1,
+      "line": "cinematic",
+      "name": "Misty Forest",
+      "names": {
+        "de": "Nebelwald",
+        "en": "Misty Forest",
+        "es": "Bosque de niebla",
+        "fr": "Forêt brumeuse",
+        "zh": "雾林"
+      },
+      "category": "realistic",
+      "mood": "mysterious",
+      "colors": [
+        "blue",
+        "green"
+      ],
+      "premium": false,
+      "author": {
+        "name": "G-Aesthetics",
+        "origin": "official"
+      },
+      "license": "own",
+      "assets": {
+        "image": "scenes/nebelwald/image.webp",
+        "depth": "scenes/nebelwald/depth.png",
+        "poster": "scenes/nebelwald/poster.webp",
+        "preview": "scenes/nebelwald/preview.webp"
+      },
+      "effects": [
+        {
+          "type": "parallax",
+          "focus": 0.3,
+          "offset": 32,
+          "vertical": 0.56,
+          "breathe": 0.35,
+          "vignette": 0.4
+        },
+        {
+          "type": "rays",
+          "originX": 0.7,
+          "originY": 1.15,
+          "angle": -0.36,
+          "width": 0.34,
+          "breathe": 0.55,
+          "amount": 1,
+          "tint": "#0f1929"
+        },
+        {
+          "type": "fog",
+          "color": "#ffffff",
+          "tint": 0,
+          "gain": 1.25,
+          "layers": [
+            {
+              "depth": 0.22,
+              "scaleX": 1.6,
+              "scaleY": 4.8,
+              "driftX": 0.045,
+              "driftY": 0.01,
+              "band": [
+                0.08,
+                0.25,
+                0.22,
+                0.55
+              ],
+              "thin": 0.75,
+              "density": 0.55
+            },
+            {
+              "depth": 0.5,
+              "scaleX": 2.2,
+              "scaleY": 7,
+              "driftX": -0.07,
+              "driftY": 0,
+              "band": [
+                -1,
+                -0.9,
+                0.05,
+                0.32
+              ],
+              "thin": 1,
+              "density": 0.42
+            }
+          ]
+        },
+        {
+          "type": "particles",
+          "shape": "firefly",
+          "count": 54,
+          "wind": 1,
+          "avoid": 1
+        },
+        {
+          "type": "light",
+          "color": "#89c5ff",
+          "strength": 0.48,
+          "flicker": 0.3
+        }
+      ],
+      "surface": {
+        "searchFog": false,
+        "edgeLight": true
+      },
+      "controls": [
+        "intensity",
+        "pointer"
+      ]
+    },
+    {
+      "id": "sternensee",
+      "format": 1,
+      "line": "cinematic",
+      "name": "Starlit Lake",
+      "names": {
+        "de": "Sternensee",
+        "en": "Starlit Lake",
+        "es": "Lago estrellado",
+        "fr": "Lac étoilé",
+        "zh": "星空湖"
+      },
+      "category": "realistic",
+      "mood": "serene",
+      "colors": [
+        "blue",
+        "green",
+        "purple"
+      ],
+      "premium": false,
+      "author": {
+        "name": "G-Aesthetics",
+        "origin": "official"
+      },
+      "license": "own",
+      "assets": {
+        "image": "scenes/sternensee/image.webp",
+        "depth": "scenes/sternensee/depth.png",
+        "poster": "scenes/sternensee/poster.webp",
+        "preview": "scenes/sternensee/preview.webp"
+      },
+      "effects": [
+        {
+          "type": "plane",
+          "offset": 6,
+          "vignette": 0.3
+        },
+        {
+          "type": "water",
+          "line": 0.352,
+          "waves": 1
+        },
+        {
+          "type": "sky",
+          "line": 0.352,
+          "poleX": 0.5,
+          "poleY": 2.6,
+          "turn": 0.0025,
+          "period": 150,
+          "aurora": 1
+        },
+        {
+          "type": "twinkle",
+          "depthMax": 0.12,
+          "amount": 0.95
+        },
+        {
+          "type": "glow",
+          "select": "warm",
+          "amount": 1
+        },
+        {
+          "type": "light",
+          "color": "#78ffaa",
+          "alternate": "#c496ff",
+          "strength": 0.46,
+          "flicker": 0.1
+        }
+      ],
+      "surface": {
+        "searchFog": false,
+        "edgeLight": true
+      },
+      "controls": [
+        "intensity",
+        "pointer"
+      ]
+    },
+    {
+      "id": "kueste",
+      "format": 1,
+      "line": "cinematic",
+      "name": "Sunset Coast",
+      "names": {
+        "de": "Küste",
+        "en": "Sunset Coast",
+        "es": "Costa al atardecer",
+        "fr": "Côte au couchant",
+        "zh": "日落海岸"
+      },
+      "category": "realistic",
+      "mood": "peaceful",
+      "colors": [
+        "orange",
+        "teal",
+        "purple"
+      ],
+      "premium": false,
+      "author": {
+        "name": "G-Aesthetics",
+        "origin": "official"
+      },
+      "license": "own",
+      "assets": {
+        "image": "scenes/kueste/image.webp",
+        "depth": "scenes/kueste/depth.png",
+        "poster": "scenes/kueste/poster.webp",
+        "preview": "scenes/kueste/preview.webp"
+      },
+      "effects": [
+        {
+          "type": "parallax",
+          "focus": 0.3,
+          "offset": 28,
+          "vertical": 0.5,
+          "breathe": 0.35,
+          "vignette": 0.3
+        },
+        {
+          "type": "fog",
+          "color": "#ffe6d6",
+          "tint": 0.4,
+          "gain": 1.08,
+          "layers": [
+            {
+              "depth": 0.18,
+              "scaleX": 1.6,
+              "scaleY": 4.5,
+              "driftX": -0.05,
+              "driftY": 0.01,
+              "band": [
+                0.1,
+                0.22,
+                0.3,
+                0.5
+              ],
+              "thin": 0.5,
+              "density": 0.45
+            },
+            {
+              "depth": 0.3,
+              "scaleX": 2.4,
+              "scaleY": 7,
+              "driftX": -0.09,
+              "driftY": 0.015,
+              "band": [
+                -1,
+                -0.9,
+                0.08,
+                0.3
+              ],
+              "thin": 0.6,
+              "density": 0.4
+            }
+          ]
+        },
+        {
+          "type": "glow",
+          "select": "bright",
+          "amount": 0.8
+        },
+        {
+          "type": "particles",
+          "shape": "mote",
+          "count": 46,
+          "wind": 0.8,
+          "avoid": 1
+        },
+        {
+          "type": "light",
+          "color": "#ffb896",
+          "strength": 0.48,
+          "flicker": 0.1
+        }
+      ],
+      "surface": {
+        "searchFog": false,
+        "edgeLight": true
+      },
+      "controls": [
+        "intensity",
+        "pointer"
+      ]
+    },
+    {
+      "id": "wanderer",
+      "format": 1,
+      "line": "cinematic",
+      "name": "Wanderer",
+      "names": {
+        "de": "Wanderer",
+        "en": "Wanderer",
+        "es": "Caminante",
+        "fr": "Le Voyageur",
+        "zh": "旅人"
+      },
+      "category": "realistic",
+      "mood": "adventurous",
+      "colors": [
+        "red",
+        "white",
+        "grey"
+      ],
+      "premium": true,
+      "author": {
+        "name": "G-Aesthetics",
+        "origin": "official"
+      },
+      "license": "own",
+      "assets": {
+        "image": "scenes/wanderer/image.webp",
+        "depth": "scenes/wanderer/depth.png",
+        "poster": "scenes/wanderer/poster.webp",
+        "preview": "scenes/wanderer/preview.webp"
+      },
+      "effects": [
+        {
+          "type": "parallax",
+          "focus": 0.35,
+          "offset": 30,
+          "vertical": 0.53,
+          "breathe": 0.35,
+          "vignette": 0.35
+        },
+        {
+          "type": "fog",
+          "color": "#fff7ed",
+          "tint": 0.55,
+          "gain": 1.06,
+          "layers": [
+            {
+              "depth": 0.1,
+              "scaleX": 1.3,
+              "scaleY": 3.4,
+              "driftX": -0.06,
+              "driftY": 0.012,
+              "band": [
+                -1,
+                -0.9,
+                0.3,
+                0.7
+              ],
+              "thin": 0.3,
+              "density": 0.62
+            },
+            {
+              "depth": 0.4,
+              "scaleX": 2.1,
+              "scaleY": 5.2,
+              "driftX": -0.1,
+              "driftY": -0.015,
+              "band": [
+                -1,
+                -0.9,
+                0.12,
+                0.5
+              ],
+              "thin": 0.4,
+              "density": 0.55
+            }
+          ]
+        },
+        {
+          "type": "particles",
+          "shape": "leaf",
+          "count": 46,
+          "wind": 1,
+          "avoid": 1
+        },
+        {
+          "type": "light",
+          "color": "#ffe9c7",
+          "strength": 0.5,
+          "flicker": 0.1
+        }
+      ],
+      "surface": {
+        "searchFog": false,
+        "edgeLight": true
+      },
+      "controls": [
+        "intensity",
+        "pointer"
+      ]
+    },
+    {
+      "id": "neonregen",
+      "format": 1,
+      "line": "cinematic",
+      "name": "Neon Rain",
+      "names": {
+        "de": "Neonregen",
+        "en": "Neon Rain",
+        "es": "Lluvia de neón",
+        "fr": "Pluie néon",
+        "zh": "霓虹雨"
+      },
+      "category": "realistic",
+      "mood": "futuristic",
+      "colors": [
+        "pink",
+        "blue",
+        "purple"
+      ],
+      "premium": true,
+      "author": {
+        "name": "G-Aesthetics",
+        "origin": "official"
+      },
+      "license": "own",
+      "assets": {
+        "image": "scenes/neonregen/image.webp",
+        "depth": "scenes/neonregen/depth.png",
+        "poster": "scenes/neonregen/poster.webp",
+        "preview": "scenes/neonregen/preview.webp"
+      },
+      "effects": [
+        {
+          "type": "rain_glass",
+          "drops": 1,
+          "fog": 0.5,
+          "vignette": 0.45
+        },
+        {
+          "type": "neon",
+          "flicker": 1,
+          "rects": [
+            [
+              0.359,
+              0.8,
+              0.393,
+              0.981
+            ],
+            [
+              0.426,
+              0.596,
+              0.449,
+              0.735
+            ],
+            [
+              0.621,
+              0.578,
+              0.674,
+              0.83
+            ],
+            [
+              0.61,
+              0.411,
+              0.638,
+              0.515
+            ],
+            [
+              0.329,
+              0.467,
+              0.352,
+              0.559
+            ],
+            [
+              0.448,
+              0.49,
+              0.467,
+              0.681
+            ]
+          ],
+          "tired": [
+            2,
+            4
+          ]
+        },
+        {
+          "type": "steam",
+          "amount": 1,
+          "sources": [
+            {
+              "x": 0.234,
+              "y": 0.205,
+              "width": 0.022,
+              "height": 0.26
+            },
+            {
+              "x": 0.344,
+              "y": 0.28,
+              "width": 0.018,
+              "height": 0.2
+            },
+            {
+              "x": 0.815,
+              "y": 0.12,
+              "width": 0.03,
+              "height": 0.5
+            }
+          ]
+        },
+        {
+          "type": "light",
+          "color": "#ff60ce",
+          "strength": 0.52,
+          "flicker": 0.5
+        }
+      ],
+      "surface": {
+        "searchFog": true,
+        "edgeLight": true
+      },
+      "controls": [
+        "intensity",
+        "pointer"
+      ]
+    },
+    {
+      "id": "wueste",
+      "format": 1,
+      "line": "cinematic",
+      "name": "Desert Monolith",
+      "names": {
+        "de": "Wüste",
+        "en": "Desert Monolith",
+        "es": "Monolito del desierto",
+        "fr": "Monolithe du désert",
+        "zh": "沙漠巨石"
+      },
+      "category": "realistic",
+      "mood": "awe_inspiring",
+      "colors": [
+        "orange",
+        "gold",
+        "beige"
+      ],
+      "premium": true,
+      "author": {
+        "name": "G-Aesthetics",
+        "origin": "official"
+      },
+      "license": "own",
+      "assets": {
+        "image": "scenes/wueste/image.webp",
+        "depth": "scenes/wueste/depth.png",
+        "poster": "scenes/wueste/poster.webp",
+        "preview": "scenes/wueste/preview.webp"
+      },
+      "effects": [
+        {
+          "type": "parallax",
+          "focus": 0.3,
+          "offset": 30,
+          "vertical": 0.47,
+          "breathe": 0.35,
+          "vignette": 0.3
+        },
+        {
+          "type": "heat",
+          "horizon": 0.31,
+          "amount": 1
+        },
+        {
+          "type": "fog",
+          "color": "#ffffff",
+          "tint": 0,
+          "gain": 1.22,
+          "layers": [
+            {
+              "depth": 0.2,
+              "scaleX": 1.8,
+              "scaleY": 6,
+              "driftX": 0.045,
+              "driftY": 0,
+              "band": [
+                0.21,
+                0.31,
+                0.31,
+                0.41
+              ],
+              "thin": 0.4,
+              "density": 0.55
+            },
+            {
+              "depth": 0.7,
+              "scaleX": 2.6,
+              "scaleY": 16,
+              "driftX": 0.15,
+              "driftY": 0,
+              "band": [
+                -1,
+                -0.9,
+                0.08,
+                0.36
+              ],
+              "thin": 0.6,
+              "density": 0.5
+            }
+          ]
+        },
+        {
+          "type": "particles",
+          "shape": "mote",
+          "count": 80,
+          "wind": 1,
+          "avoid": 1
+        },
+        {
+          "type": "light",
+          "color": "#ffc878",
+          "strength": 0.5,
+          "flicker": 0.1
+        }
+      ],
+      "surface": {
+        "searchFog": false,
+        "edgeLight": true
+      },
+      "controls": [
+        "intensity",
+        "pointer"
+      ]
+    },
+    {
+      "id": "kirschbluete",
+      "format": 1,
+      "line": "cinematic",
+      "name": "Cherry Blossom",
+      "names": {
+        "de": "Kirschblüte",
+        "en": "Cherry Blossom",
+        "es": "Flor de cerezo",
+        "fr": "Fleurs de cerisier",
+        "zh": "樱花"
+      },
+      "category": "realistic",
+      "mood": "tranquil",
+      "colors": [
+        "pink",
+        "beige",
+        "blue"
+      ],
+      "premium": true,
+      "author": {
+        "name": "G-Aesthetics",
+        "origin": "official"
+      },
+      "license": "own",
+      "assets": {
+        "image": "scenes/kirschbluete/image.webp",
+        "depth": "scenes/kirschbluete/depth.png",
+        "poster": "scenes/kirschbluete/poster.webp",
+        "preview": "scenes/kirschbluete/preview.webp"
+      },
+      "effects": [
+        {
+          "type": "parallax",
+          "focus": 0.32,
+          "offset": 30,
+          "vertical": 0.53,
+          "breathe": 0.35,
+          "vignette": 0.35
+        },
+        {
+          "type": "fog",
+          "color": "#fff0db",
+          "tint": 0.5,
+          "gain": 1.05,
+          "layers": [
+            {
+              "depth": 0.12,
+              "scaleX": 1.4,
+              "scaleY": 3.6,
+              "driftX": 0.05,
+              "driftY": 0.01,
+              "band": [
+                0.22,
+                0.4,
+                0.45,
+                0.75
+              ],
+              "thin": 0.4,
+              "density": 0.5
+            },
+            {
+              "depth": 0.38,
+              "scaleX": 2.2,
+              "scaleY": 6,
+              "driftX": 0.08,
+              "driftY": 0.012,
+              "band": [
+                0.04,
+                0.16,
+                0.2,
+                0.42
+              ],
+              "thin": 0.45,
+              "density": 0.42
+            }
+          ]
+        },
+        {
+          "type": "particles",
+          "shape": "petal",
+          "count": 64,
+          "wind": 1,
+          "avoid": 1
+        },
+        {
+          "type": "light",
+          "color": "#ffd0d6",
+          "strength": 0.48,
+          "flicker": 0.1
+        }
+      ],
+      "surface": {
+        "searchFog": false,
+        "edgeLight": true
+      },
+      "controls": [
+        "intensity",
+        "pointer"
+      ]
+    },
+    {
+      "id": "winter",
+      "format": 1,
+      "line": "cinematic",
+      "name": "Winter Forest",
+      "names": {
+        "de": "Winter",
+        "en": "Winter Forest",
+        "es": "Bosque invernal",
+        "fr": "Forêt d'hiver",
+        "zh": "冬林"
+      },
+      "category": "realistic",
+      "mood": "calm",
+      "colors": [
+        "white",
+        "blue",
+        "grey"
+      ],
+      "premium": true,
+      "author": {
+        "name": "G-Aesthetics",
+        "origin": "official"
+      },
+      "license": "own",
+      "assets": {
+        "image": "scenes/winter/image.webp",
+        "depth": "scenes/winter/depth.png",
+        "poster": "scenes/winter/poster.webp",
+        "preview": "scenes/winter/preview.webp"
+      },
+      "effects": [
+        {
+          "type": "parallax",
+          "focus": 0.3,
+          "offset": 32,
+          "vertical": 0.5,
+          "breathe": 0.35,
+          "vignette": 0.3
+        },
+        {
+          "type": "fog",
+          "color": "#e6efff",
+          "tint": 0.3,
+          "gain": 1.1,
+          "layers": [
+            {
+              "depth": 0.1,
+              "scaleX": 1.5,
+              "scaleY": 4,
+              "driftX": -0.04,
+              "driftY": 0.008,
+              "band": [
+                0.3,
+                0.42,
+                0.5,
+                0.72
+              ],
+              "thin": 0.4,
+              "density": 0.5
+            },
+            {
+              "depth": 0.35,
+              "scaleX": 2.4,
+              "scaleY": 7,
+              "driftX": -0.07,
+              "driftY": 0.01,
+              "band": [
+                -1,
+                -0.9,
+                0.06,
+                0.3
+              ],
+              "thin": 0.55,
+              "density": 0.42
+            }
+          ]
+        },
+        {
+          "type": "light",
+          "color": "#d6e6ff",
+          "strength": 0.46,
+          "flicker": 0.05
+        }
+      ],
+      "surface": {
+        "searchFog": false,
+        "edgeLight": true
+      },
+      "controls": [
+        "intensity",
+        "pointer"
+      ]
+    },
+    {
+      "id": "wolkeninseln",
+      "format": 1,
+      "line": "cinematic",
+      "name": "Cloud Islands",
+      "names": {
+        "de": "Wolkeninseln",
+        "en": "Cloud Islands",
+        "es": "Islas de nubes",
+        "fr": "Îles des nuages",
+        "zh": "云岛"
+      },
+      "category": "realistic",
+      "mood": "dreamlike",
+      "colors": [
+        "blue",
+        "white",
+        "green"
+      ],
+      "premium": true,
+      "author": {
+        "name": "G-Aesthetics",
+        "origin": "official"
+      },
+      "license": "own",
+      "assets": {
+        "image": "scenes/wolkeninseln/image.webp",
+        "depth": "scenes/wolkeninseln/depth.png",
+        "poster": "scenes/wolkeninseln/poster.webp",
+        "preview": "scenes/wolkeninseln/preview.webp"
+      },
+      "effects": [
+        {
+          "type": "parallax",
+          "focus": 0.35,
+          "offset": 34,
+          "vertical": 0.53,
+          "breathe": 0.35,
+          "vignette": 0.25
+        },
+        {
+          "type": "fog",
+          "color": "#ffffff",
+          "tint": 0,
+          "gain": 1.15,
+          "layers": [
+            {
+              "depth": 0.18,
+              "scaleX": 1.8,
+              "scaleY": 4.5,
+              "driftX": 0.035,
+              "driftY": 0.008,
+              "band": [
+                0.25,
+                0.4,
+                0.5,
+                0.7
+              ],
+              "thin": 0.55,
+              "density": 0.45
+            },
+            {
+              "depth": 0.4,
+              "scaleX": 2.2,
+              "scaleY": 5,
+              "driftX": -0.05,
+              "driftY": 0.01,
+              "band": [
+                -1,
+                -0.9,
+                0.1,
+                0.35
+              ],
+              "thin": 0.5,
+              "density": 0.5
+            }
+          ]
+        },
+        {
+          "type": "light",
+          "color": "#cee8ff",
+          "strength": 0.46,
+          "flicker": 0.05
+        }
+      ],
+      "surface": {
+        "searchFog": false,
+        "edgeLight": true
+      },
+      "controls": [
+        "intensity",
+        "pointer"
+      ]
+    },
+    {
+      "id": "gen_satin",
+      "format": 1,
+      "line": "generative",
+      "name": "Satin",
+      "names": {
+        "de": "Satin",
+        "en": "Satin",
+        "es": "Satén",
+        "fr": "Satin",
+        "zh": "缎面"
+      },
+      "category": "",
+      "mood": "calm",
+      "colors": [],
+      "premium": false,
+      "author": {
+        "name": "G-Aesthetics",
+        "origin": "official"
+      },
+      "license": "own",
+      "assets": {
+        "preview": "scenes/gen_satin/preview.webp"
+      },
+      "effects": [
+        {
+          "type": "satin"
+        }
+      ],
+      "surface": {
+        "searchFog": false,
+        "edgeLight": true
+      },
+      "controls": [
+        "intensity",
+        "pointer"
+      ]
+    },
+    {
+      "id": "gen_ridges",
+      "format": 1,
+      "line": "generative",
+      "name": "Ridges",
+      "names": {
+        "de": "Höhenzüge",
+        "en": "Ridges",
+        "es": "Cordilleras",
+        "fr": "Crêtes",
+        "zh": "山脊"
+      },
+      "category": "",
+      "mood": "calm",
+      "colors": [],
+      "premium": false,
+      "author": {
+        "name": "G-Aesthetics",
+        "origin": "official"
+      },
+      "license": "own",
+      "assets": {
+        "preview": "scenes/gen_ridges/preview.webp"
+      },
+      "effects": [
+        {
+          "type": "ridges"
+        }
+      ],
+      "surface": {
+        "searchFog": false,
+        "edgeLight": true
+      },
+      "controls": [
+        "intensity",
+        "pointer"
+      ]
+    },
+    {
+      "id": "gen_fluted_glass",
+      "format": 1,
+      "line": "generative",
+      "name": "Fluted Glass",
+      "names": {
+        "de": "Riffelglas",
+        "en": "Fluted Glass",
+        "es": "Vidrio acanalado",
+        "fr": "Verre cannelé",
+        "zh": "凹槽玻璃"
+      },
+      "category": "",
+      "mood": "calm",
+      "colors": [],
+      "premium": false,
+      "author": {
+        "name": "G-Aesthetics",
+        "origin": "official"
+      },
+      "license": "own",
+      "assets": {
+        "preview": "scenes/gen_fluted_glass/preview.webp"
+      },
+      "effects": [
+        {
+          "type": "fluted_glass"
+        }
+      ],
+      "surface": {
+        "searchFog": false,
+        "edgeLight": true
+      },
+      "controls": [
+        "intensity",
+        "pointer"
+      ]
+    },
+    {
+      "id": "gen_ink_veil",
+      "format": 1,
+      "line": "generative",
+      "name": "Ink Veil",
+      "names": {
+        "de": "Schleier",
+        "en": "Ink Veil",
+        "es": "Velo de tinta",
+        "fr": "Voile d'encre",
+        "zh": "墨纱"
+      },
+      "category": "",
+      "mood": "mysterious",
+      "colors": [],
+      "premium": false,
+      "author": {
+        "name": "G-Aesthetics",
+        "origin": "official"
+      },
+      "license": "own",
+      "assets": {
+        "preview": "scenes/gen_ink_veil/preview.webp"
+      },
+      "effects": [
+        {
+          "type": "ink_veil"
+        }
+      ],
+      "surface": {
+        "searchFog": false,
+        "edgeLight": true
+      },
+      "controls": [
+        "intensity",
+        "pointer"
+      ]
+    }
+  ]
+}

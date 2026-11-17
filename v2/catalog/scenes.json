@@ -231,51 +231,6 @@
           "vignette": 0.3
         },
         {
-          "type": "fog",
-          "color": "#ffe6d6",
-          "tint": 0.4,
-          "gain": 1.08,
-          "layers": [
-            {
-              "depth": 0.18,
-              "scaleX": 1.6,
-              "scaleY": 4.5,
-              "driftX": -0.05,
-              "driftY": 0.01,
-              "band": [
-                0.1,
-                0.22,
-                0.3,
-                0.5
-              ],
-              "thin": 0.5,
-              "density": 0.45
-            },
-            {
-              "depth": 0.3,
-              "scaleX": 2.4,
-              "scaleY": 7,
-              "driftX": -0.09,
-              "driftY": 0.015,
-              "band": [
-                -1,
-                -0.9,
-                0.08,
-                0.3
-              ],
-              "thin": 0.6,
-              "density": 0.4
-            }
-          ]
-        },
-        {
-          "type": "particles",
-          "shape": "mote",
-          "count": 46,
-          "wind": 0.8,
-          "avoid": 1
-        },
-        {
           "type": "surf",
           "horizon": 0.418,
           "low": 0.3,
@@ -289,18 +244,35 @@
           "glitter": 1
         },
         {
+          "type": "spray",
+          "waveY": 0.37,
+          "waveWidth": 0.045,
+          "waveRight": 0.8,
+          "cliffY": 0.44,
+          "cliffWidth": 0.06,
+          "cliffLeft": 0.5,
+          "haze": 1,
+          "drops": 46,
+          "dropLeft": 0.03,
+          "dropRight": 0.69,
+          "dropLow": 0.32,
+          "dropHigh": 0.39,
+          "avoid": 1
+        },
+        {
           "type": "beacon",
           "x": 0.757,
           "y": 0.867,
           "turn": 0.55,
           "amount": 1,
-          "color": "#ffe6b8"
+          "color": "#ffe6b8",
+          "flash": 1
         },
         {
           "type": "light",
           "color": "#ffb896",
           "strength": 0.48,
-          "flicker": 0.1
+          "flicker": 0
         }
       ],
       "surface": {
@@ -685,7 +657,7 @@
         },
         {
           "type": "fog",
-          "color": "#fff0db",
+          "color": "#fffce6",
           "tint": 0.5,
           "gain": 1.05,
           "layers": [
@@ -693,7 +665,7 @@
               "depth": 0.12,
               "scaleX": 1.4,
               "scaleY": 3.6,
-              "driftX": 0.05,
+              "driftX": -0.05,
               "driftY": 0.01,
               "band": [
                 0.22,
@@ -708,22 +680,22 @@
               "depth": 0.38,
               "scaleX": 2.2,
               "scaleY": 6,
-              "driftX": 0.08,
-              "driftY": 0.012,
+              "driftX": -0.08,
+              "driftY": -0.012,
               "band": [
                 0.04,
                 0.16,
                 0.2,
                 0.42
               ],
-              "thin": 0.45,
+              "thin": 0.6,
               "density": 0.42
             }
           ]
         },
         {
           "type": "particles",
-          "shape": "petal",
+          "shape": "blossom",
           "count": 64,
           "wind": 1,
           "avoid": 1
@@ -796,20 +768,20 @@
         },
         {
           "type": "fog",
-          "color": "#e6efff",
-          "tint": 0.3,
-          "gain": 1.1,
+          "color": "#f7feff",
+          "tint": 0.5,
+          "gain": 1.04,
           "layers": [
             {
               "depth": 0.1,
-              "scaleX": 1.5,
-              "scaleY": 4,
-              "driftX": -0.04,
-              "driftY": 0.008,
+              "scaleX": 1.3,
+              "scaleY": 3.2,
+              "driftX": 0.04,
+              "driftY": 0,
               "band": [
-                0.3,
+                0.25,
+                0.4,
                 0.42,
-                0.5,
                 0.72
               ],
               "thin": 0.4,
@@ -818,16 +790,16 @@
             {
               "depth": 0.35,
               "scaleX": 2.4,
-              "scaleY": 7,
-              "driftX": -0.07,
-              "driftY": 0.01,
+              "scaleY": 9,
+              "driftX": 0.07,
+              "driftY": 0,
               "band": [
-                -1,
-                -0.9,
                 0.06,
-                0.3
+                0.18,
+                0.26,
+                0.4
               ],
-              "thin": 0.55,
+              "thin": 0.7,
               "density": 0.42
             }
           ]
@@ -896,40 +868,45 @@
           "vignette": 0.25
         },
         {
+          "type": "billow",
+          "amount": 1,
+          "scale": 5
+        },
+        {
           "type": "fog",
-          "color": "#ffffff",
-          "tint": 0,
-          "gain": 1.15,
+          "color": "#fcffff",
+          "tint": 0.55,
+          "gain": 1.03,
           "layers": [
             {
               "depth": 0.18,
-              "scaleX": 1.8,
-              "scaleY": 4.5,
-              "driftX": 0.035,
-              "driftY": 0.008,
+              "scaleX": 1.6,
+              "scaleY": 4,
+              "driftX": -0.035,
+              "driftY": 0,
               "band": [
-                0.25,
-                0.4,
-                0.5,
-                0.7
+                0.12,
+                0.3,
+                0.36,
+                0.62
               ],
-              "thin": 0.55,
-              "density": 0.45
+              "thin": 0.75,
+              "density": 0.4
             },
             {
               "depth": 0.4,
-              "scaleX": 2.2,
-              "scaleY": 5,
-              "driftX": -0.05,
-              "driftY": 0.01,
+              "scaleX": 2,
+              "scaleY": 5.5,
+              "driftX": -0.06,
+              "driftY": 0,
               "band": [
                 -1,
                 -0.9,
-                0.1,
-                0.35
+                0.06,
+                0.34
               ],
-              "thin": 0.5,
-              "density": 0.5
+              "thin": 0.9,
+              "density": 0.4
             }
           ]
         },

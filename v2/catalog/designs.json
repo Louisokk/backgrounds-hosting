@@ -90,6 +90,11 @@
       "background": {
         "scene": "nebelwald"
       },
+      "former": {
+        "surface_mode": [
+          "bar"
+        ]
+      },
       "config": {
         "header_color": "#16304f",
         "header_opacity": 0.12,
@@ -151,7 +156,8 @@
         "logo_textshadow_y": 0,
         "logo_textshadow_spread": 0,
         "logo_image": "",
-        "use_features": true
+        "use_features": true,
+        "surface_mode": "chips"
       }
     },
     {
@@ -170,6 +176,11 @@
       "icon": "authors/gaesthetics.png",
       "background": {
         "scene": "sternensee"
+      },
+      "former": {
+        "surface_mode": [
+          "bar"
+        ]
       },
       "config": {
         "header_color": "#111111",
@@ -232,7 +243,8 @@
         "logo_textshadow_y": 0,
         "logo_textshadow_spread": 0,
         "logo_image": "",
-        "use_features": true
+        "use_features": true,
+        "surface_mode": "chips"
       }
     },
     {
@@ -251,6 +263,11 @@
       "icon": "authors/gaesthetics.png",
       "background": {
         "scene": "kueste"
+      },
+      "former": {
+        "surface_mode": [
+          "bar"
+        ]
       },
       "config": {
         "header_color": "#fff4ec",
@@ -313,7 +330,8 @@
         "logo_textshadow_y": 0,
         "logo_textshadow_spread": 0,
         "logo_image": "",
-        "use_features": true
+        "use_features": true,
+        "surface_mode": "chips"
       }
     },
     {
@@ -332,6 +350,11 @@
       "icon": "authors/gaesthetics.png",
       "background": {
         "scene": "neonregen"
+      },
+      "former": {
+        "surface_mode": [
+          "bar"
+        ]
       },
       "config": {
         "header_color": "#150e2a",
@@ -394,7 +417,8 @@
         "logo_textshadow_y": 0,
         "logo_textshadow_spread": 0,
         "logo_image": "",
-        "use_features": true
+        "use_features": true,
+        "surface_mode": "chips"
       }
     },
     {
@@ -413,6 +437,11 @@
       "icon": "authors/gaesthetics.png",
       "background": {
         "scene": "wanderer"
+      },
+      "former": {
+        "surface_mode": [
+          "bar"
+        ]
       },
       "config": {
         "header_color": "#fcf6ee",
@@ -475,7 +504,8 @@
         "logo_textshadow_y": 0,
         "logo_textshadow_spread": 0,
         "logo_image": "",
-        "use_features": true
+        "use_features": true,
+        "surface_mode": "chips"
       }
     },
     {
@@ -494,6 +524,11 @@
       "icon": "authors/gaesthetics.png",
       "background": {
         "scene": "kirschbluete"
+      },
+      "former": {
+        "surface_mode": [
+          "bar"
+        ]
       },
       "config": {
         "header_color": "#fff4f5",
@@ -556,7 +591,8 @@
         "logo_textshadow_y": 0,
         "logo_textshadow_spread": 0,
         "logo_image": "",
-        "use_features": true
+        "use_features": true,
+        "surface_mode": "chips"
       }
     },
     {
@@ -575,6 +611,11 @@
       "icon": "authors/gaesthetics.png",
       "background": {
         "scene": "winter"
+      },
+      "former": {
+        "surface_mode": [
+          "bar"
+        ]
       },
       "config": {
         "header_color": "#f0f5fb",
@@ -637,7 +678,8 @@
         "logo_textshadow_y": 0,
         "logo_textshadow_spread": 0,
         "logo_image": "",
-        "use_features": true
+        "use_features": true,
+        "surface_mode": "chips"
       }
     },
     {
@@ -656,6 +698,11 @@
       "icon": "authors/gaesthetics.png",
       "background": {
         "scene": "wolkeninseln"
+      },
+      "former": {
+        "surface_mode": [
+          "bar"
+        ]
       },
       "config": {
         "header_color": "#07111e",
@@ -718,7 +765,8 @@
         "logo_textshadow_y": 0,
         "logo_textshadow_spread": 0,
         "logo_image": "",
-        "use_features": true
+        "use_features": true,
+        "surface_mode": "chips"
       }
     },
     {
@@ -737,6 +785,11 @@
       "icon": "authors/gaesthetics.png",
       "background": {
         "scene": "gen_satin"
+      },
+      "former": {
+        "surface_mode": [
+          "bar"
+        ]
       },
       "config": {
         "header_color": "#ffffff",
@@ -799,7 +852,8 @@
         "logo_textshadow_y": 0,
         "logo_textshadow_spread": 0,
         "logo_image": "",
-        "use_features": true
+        "use_features": true,
+        "surface_mode": "chips"
       }
     },
     {
@@ -818,6 +872,11 @@
       "icon": "authors/gaesthetics.png",
       "background": {
         "scene": "gen_ink_veil"
+      },
+      "former": {
+        "surface_mode": [
+          "bar"
+        ]
       },
       "config": {
         "header_color": "#111111",
@@ -880,7 +939,8 @@
         "logo_textshadow_y": 0,
         "logo_textshadow_spread": 0,
         "logo_image": "",
-        "use_features": true
+        "use_features": true,
+        "surface_mode": "chips"
       }
     },
     {
@@ -898,6 +958,11 @@
       "href": "https://www.g-aesthetics.com",
       "icon": "authors/gaesthetics.png",
       "background": "48",
+      "former": {
+        "surface_mode": [
+          "bar"
+        ]
+      },
       "config": {
         "header_color": "#120d1c",
         "header_opacity": 0.55,
@@ -959,7 +1024,8 @@
         "logo_textshadow_y": 0,
         "logo_textshadow_spread": 0,
         "logo_image": "",
-        "use_features": true
+        "use_features": true,
+        "surface_mode": "chips"
       }
     },
     {
@@ -977,8 +1043,13 @@
       "href": "https://www.g-aesthetics.com",
       "icon": "authors/gaesthetics.png",
       "background": "27",
+      "former": {
+        "surface_mode": [
+          "bar"
+        ]
+      },
       "config": {
-        "header_color": "#ffffff",
+        "header_color": "#0f2238",
         "header_opacity": 0.12,
         "header_blur": 6,
         "header_margin": 1,
@@ -987,14 +1058,14 @@
         "header_shadow_x": 0,
         "header_shadow_y": 0,
         "header_shadow_spread": 0,
-        "search_color": "#ffffff",
+        "search_color": "#0f2238",
         "search_opacity": 0.16,
         "search_blur": 8,
         "search_shadow": "transparent",
         "search_shadow_x": 0,
         "search_shadow_y": 0,
         "search_shadow_spread": 0,
-        "footer_color": "#ffffff",
+        "footer_color": "#0f2238",
         "footer_opacity": 0.12,
         "footer_blur": 6,
         "footer_margin": 1,
@@ -1003,7 +1074,7 @@
         "footer_shadow_x": 0,
         "footer_shadow_y": 0,
         "footer_shadow_spread": 0,
-        "shortlinks_color": "#ffffff",
+        "shortlinks_color": "#0f2238",
         "shortlinks_opacity": 0.14,
         "shortlinks_blur": 6,
         "shortlinks_bottom_margin": 1,
@@ -1038,7 +1109,95 @@
         "logo_textshadow_y": 0,
         "logo_textshadow_spread": 0,
         "logo_image": "",
-        "use_features": true
+        "use_features": true,
+        "surface_mode": "chips"
+      }
+    },
+    {
+      "id": 10013,
+      "name": "Desert Sun",
+      "names": {
+        "de": "Wüstensonne",
+        "en": "Desert Sun",
+        "es": "Sol del desierto",
+        "fr": "Soleil du désert",
+        "zh": "沙漠骄阳"
+      },
+      "author": "G-Aesthetics Team",
+      "description": "A lone wanderer before a desert monolith, dark umber surfaces.",
+      "href": "https://www.g-aesthetics.com",
+      "icon": "authors/gaesthetics.png",
+      "background": {
+        "scene": "wueste"
+      },
+      "former": {
+        "surface_mode": [
+          "bar"
+        ]
+      },
+      "config": {
+        "header_color": "#1e140c",
+        "header_opacity": 0.75,
+        "header_blur": 2,
+        "header_margin": 0,
+        "header_roundness": 0,
+        "header_shadow": "transparent",
+        "header_shadow_x": 0,
+        "header_shadow_y": 0,
+        "header_shadow_spread": 0,
+        "search_color": "#1e140c",
+        "search_opacity": 0.8,
+        "search_blur": 2,
+        "search_shadow": "transparent",
+        "search_shadow_x": 0,
+        "search_shadow_y": 0,
+        "search_shadow_spread": 0,
+        "footer_color": "#1e140c",
+        "footer_opacity": 0.75,
+        "footer_blur": 2,
+        "footer_margin": 0,
+        "footer_roundness": 0,
+        "footer_shadow": "transparent",
+        "footer_shadow_x": 0,
+        "footer_shadow_y": 0,
+        "footer_shadow_spread": 0,
+        "shortlinks_color": "#1e140c",
+        "shortlinks_opacity": 0.7,
+        "shortlinks_blur": 0,
+        "shortlinks_bottom_margin": 1,
+        "shortlinks_shadow": "transparent",
+        "shortlinks_shadow_x": 0,
+        "shortlinks_shadow_y": 0,
+        "shortlinks_shadow_spread": 0,
+        "footer_divider_color": "#3a2818",
+        "footer_divider_opacity": 1,
+        "root_background": "#b98f62",
+        "background_brightness": 100,
+        "background_saturate": 100,
+        "background_hue_rotate": 0,
+        "background_sepia": 0,
+        "background_fit": "cover",
+        "use_video": true,
+        "text_color": "#fbf1e4",
+        "text_weight": 400,
+        "text_font": "Arial",
+        "text_scale": 1,
+        "text_shadow": "transparent",
+        "text_shadow_x": 0,
+        "text_shadow_y": 0,
+        "text_shadow_spread": 0,
+        "logo_color": "#fbeedd",
+        "logo_type": "standard",
+        "logo_scale": 1,
+        "logo_text": "",
+        "logo_font": "Arial",
+        "logo_textshadow": "transparent",
+        "logo_textshadow_x": 0,
+        "logo_textshadow_y": 0,
+        "logo_textshadow_spread": 0,
+        "logo_image": "",
+        "use_features": true,
+        "surface_mode": "chips"
       }
     }
   ]

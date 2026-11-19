@@ -20,6 +20,11 @@
         "blue",
         "green"
       ],
+      "tags": [
+        "forest",
+        "mist",
+        "nature"
+      ],
       "premium": false,
       "author": {
         "name": "G-Aesthetics",
@@ -185,6 +190,13 @@
         "green",
         "purple"
       ],
+      "tags": [
+        "night",
+        "stars",
+        "water",
+        "reflection",
+        "nature"
+      ],
       "premium": false,
       "author": {
         "name": "G-Aesthetics",
@@ -320,6 +332,12 @@
         "orange",
         "teal",
         "purple"
+      ],
+      "tags": [
+        "sunset",
+        "ocean",
+        "water",
+        "nature"
       ],
       "premium": false,
       "author": {
@@ -472,6 +490,11 @@
         "red",
         "white",
         "grey"
+      ],
+      "tags": [
+        "mist",
+        "sky",
+        "nature"
       ],
       "premium": true,
       "author": {
@@ -627,6 +650,13 @@
         "pink",
         "blue",
         "purple"
+      ],
+      "tags": [
+        "night",
+        "rain",
+        "city",
+        "urban",
+        "glow"
       ],
       "premium": true,
       "author": {
@@ -813,6 +843,11 @@
         "gold",
         "beige"
       ],
+      "tags": [
+        "desert",
+        "ancient",
+        "sunlight"
+      ],
       "premium": true,
       "author": {
         "name": "G-Aesthetics",
@@ -972,6 +1007,10 @@
         "pink",
         "beige",
         "blue"
+      ],
+      "tags": [
+        "cherry blossoms",
+        "nature"
       ],
       "premium": true,
       "author": {
@@ -1150,6 +1189,12 @@
         "blue",
         "grey"
       ],
+      "tags": [
+        "winter",
+        "snow",
+        "forest",
+        "nature"
+      ],
       "premium": true,
       "author": {
         "name": "G-Aesthetics",
@@ -1297,6 +1342,11 @@
         "blue",
         "white",
         "green"
+      ],
+      "tags": [
+        "sky",
+        "fantasy",
+        "nature"
       ],
       "premium": true,
       "author": {

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com",
+      "letter": "I",
+      "gradient": ["#fe025e", "#6b31ff"]
+    },
+    {
+      "name": "YouTube",
+      "url": "https://youtube.com",
+      "letter": "YT",
+      "gradient": ["#ff0033", "#dc2626"]
+    },
+    {
+      "name": "TikTok",
+      "url": "https://tiktok.com",
+      "letter": "T",
+      "gradient": ["#000000", "#3b3b3b"]
+    }
+  ]
+}
